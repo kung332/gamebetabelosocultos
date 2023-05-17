@@ -579,11 +579,11 @@ label EP1jardim :
     show Cillas at left
     show Matheu at right
 
-   "Cillas e Matheu acordam assustados com o grito que pela altitude, tomou conta de cada corredor da escola!"
+    "Cillas e Matheu acordam assustados com o grito que pela altitude, tomou conta de cada corredor da escola!"
 
-    m "O que tá acontecendo?"
+    m "Oque tá acontecendo?"
 
-    "Cillas nem ligou de responder Matheu, só vestiu algumas roupas e saiu à procura do epicentro do grito."
+    "Cillas nem ligou de responder Matheu, só vestiu algumas roupas e saiu a procura do epcentro do grito"
 
 
 
@@ -597,7 +597,7 @@ label EP1jardim :
 
     scene MatheueCillasCorredor
 
-    "Ambos os meninos se apavoraram ao ver não só eles como grande parte da escola indo em direção ao berro apavorante."
+    "Ambos os meninos seapavoraram ao ver não só eles como grande parte da escola indo em direção ao berro apavorante"
 
 
 
@@ -609,9 +609,9 @@ label EP1jardim :
 
     show Diretora
 
-    d "Alunos peço por gentileza, que todos se dirijam ao ginasio e assim todos saberão melhor o ocorrido! "
+    d "Alunos peço por gentileza, que todos se dirijam ao ginasio e assim todos saberam melhor o ocorrido! "
 
-    "Murmurinhos se conduziam juntos aos alunos para o ginasio, contudo Cillas notou um respingo de gotas saindo da porta, não enxergou direito por conta da distância, mas sabia que tinha algo ali."
+    "Murmurinhos se conduziam juntos aos alunos para o ginasio, contudo Cillas notou um respingo de gotas saindo da porta, não enxergou direito pot conta da distancia, mas sabia que tinha algo ali"
 
 
     hide Diretora
@@ -620,7 +620,7 @@ label EP1jardim :
 
     scene Visaoplateia
 
-    "Todos acomodaram-se nas cadeiras colocadas rapidamente pelo Zelador que logo em seguida saiu correndo, ainda ofegante."
+    "Todos acomodaram-se nas caderas colocadas rapidamente pelo Zellador que logo em seguida saiu correndo, ainda ofegante."
 
 
 
@@ -629,7 +629,7 @@ label EP1jardim :
 
     scene Visaopupito
 
-    d "Todos aqui foram acordados com um susto, ocasionado por um grito!"
+    d "Todos aqui foram acordados com um susto, ocasionando por um grito!"
     d "Não queria ser tão franca com vocês, mas não tenho como fugir!"
 
 
@@ -639,9 +639,9 @@ label EP1jardim :
 
     scene Visaoplateiazoom
 
-    d "O tal grito veio da amiga de vocês Nathali que apavorada encontrou o corpo da professora Scarlet ensanguentado na sala."
+    d "O tal grito veio da amiga de vocês Nathali que apavorada encontrou o corpo da professora Scarlet ensanguentado na sala"
 
-    "Altos cochichos se alastraram pelo ginásio, mirados sem olhos mas em correntes de palvras à Nathali. "
+    "Altos cuchichos se alastraram pelo ginásio, mirados sem olhos mas em correntes de palvras à Nathali "
 
 
 
@@ -649,10 +649,10 @@ label EP1jardim :
 
     scene Visaopupito
 
-    d "EH! EH! EH! PESSOAL?! Não vieram aqui para atormentar sua amiga e sim para ajuda-la a passar por isso, como belos amigos de classe e escolar que são!"
-    d "Certificamos de ligar para a policia, assim que descobrimos o infortúnio, contudo os policias mais próximos estarão em uma semana, o que vale lembra que a reunião de pais é nesse domingo."
-    d "Espero ver notas excepcionais nessa semana, e não se preocupem os seus pais seram notificados sobre a morte da professora Scarlet."
-    d "Para finalizar, esta proíbido a entrada de alunos na sala, logo que virado uma cena de crime, o Zelador e a Secretaria tomaram as providências para remanejar os alunos da professora para outra sala!"
+    d "EH! EH! EH! PESSOAÇ?! Não vinheram aqui para atormentar sua amiga e sim para ajuda-la a passar por isso, como belos amigos de classes e escolares que são!"
+    d "Certificamos de ligar para os policias assim que descobrimos o infortunio, contudo os policias mais proximos estão a uma semana, o que vale lembra que a reunião de pais é nesse domingo"
+    d "Espero ver notas excepcionais nessa semana, e não se preocupem os seus pais seram notificados sobre a morte de sua professora"
+    d "Para finalizar, esta proibido a entrada de alunos na sala, logo-o-a virando uma cena de crime, o Zelado e a Secretaria tomaram as providências para remanejar os alunos da professora para outra sala!"
     d "Agora sim, podem voltar aos estudos!"
 
 
@@ -663,7 +663,7 @@ label EP1jardim :
 
     scene AlunosnoCorredor
 
-    "Algumas salas estavam em seu tempo livre, já que a escola permite que os alunos escolhecem quando a rotina escolar iria começar, então os livre foram para o jardim."
+    "Algumas salas estavam em seu tempo livre, ja que a escola permitia que os alunos esoolhecem quando a rotina escolar iria começar, então os livre foram para o jardim"
 
 
 
@@ -674,43 +674,45 @@ label EP1jardim :
     scene Jardim
 
     show Cillas at left
-    "Cillas por um momentos relaxou traquilo perto da sombra, vendo o chão cheio de objetos da festa de ontem, em umas das diversas árvores que a Escola Imparium possuia, mas durou pouco até notar a presença de algo a vigia-lo"
+    "Cillas por um momentos relaxou traquilo perto da sombra, venddo o chão cheio de obejetos da festa de ontem, em umas das diversas arvores que a EscolaImparium possuia, mas durou pouco até notar a presença de algo a vigia-lo"
     show Matheu at center
-    c "O que foi Matheu?"
+    c "Oque foi Matheu?"
     m "Caraca, não falei nada, como sabes que era eu?"
-    c "Além do cheiro de corote, tu é o unico que me persegue."
+    c "Além do cheio de corote, tu é o unico que me persegue."
     m "Verdade..."
 
-    "Por dez segundos dava não só ouvir mas ver o constransgimento do momento silecioso entre os dois se formando."
+    "Por dez segundos dava para, não só ouvir mais ver, o constransgimento do momento silecioso entre os dois se formando"
 
-    c "Tu... Fala mais nada não?"
-    m "Ah é... Desculpa, é a ressaca da festa de ontem. \n
-    Estranho né, você fala tanto mas observa bem."
+    c "Tu não vai... Falra mais nada não?"
+    m "Ah é... Desculpa, é a ressaca da festa de ontem... \n
+    Estranho né, você fala tanto mas observa bem..."
 
-    "Cillas começou a duvidar da burrice de Matheu e parou para prestar atenção no tom da conversa que acabara de mudar."
+    "Cillas começou a duvidar da burrice de Matheu e parou para prestar atenção no tom da conversa que acabara de mudar"
 
-    m "Notei que era o único que prestou atenção nas pessoas e na explicação da diretora..."
+    m "Notei que era o unico que prestou atenção nas pessoas e na explicação da diretora..."
     c "E...?"
-    "Dando um a resposta bem indiferente para Cillas, contudo notando cada palavra do 'novo Matheu.'"
-    m "Quero fazer uma aposta com você, aproveita, sou um homem de promesssa. \n
-    Olhe para meus colegas e diga-me o que esta acontecendo na vida deles, caso acerte, qualquer coisa que você pedi, eu farei."
+    "Dando um a resposta bem de desinterese Cillas, contudo notando cada palavra do 'novo Matheu.'"
+    m "Quero fazer uma aposta com você, e aproveita, sou um home de promesssa. \n
+    Olhe para meus colegas e diga-me o que esta acontecendo na vida deles, caso acerte, qualquer coisa que você pedi, eu farei"
     "Cillas sacou a pegadinha..."
     c "E se eu não conseguir?"
-m "Terá que enfrentar seu pesadelo mortal, um grupo de pessoas.'"
+    m "Terá que enfrentar seu pesadelo mortal, um grupo social de pessoas..."
     #som de trovão
     c "Fechou!"
-    "Cillas fechou o acordo, ja depurando seu olhar entre as pessoas que estavam no jardim junto aos dois."
+    "Cillas fechou o acordo, ja depurando seu olhar entre as pessoas que estavam no jardim junto aos dois"
     
     hide Cillas
     hide Matheu
- 
+
+
+
 
 
 
 
     scene JardimRomance
 
-    c"Aqueles dois ali, Pietro atrás dos arbustos e Julio, acho que tiveram ou ainda tem uma conexão, sinto um nó de amor bem apreensivo." 
+    c"Aqueles dois ali, Pietro atrás dos aburtos e Julio, acho que tiveram ou ainda tem conexão, sinto um nó de amor bem apreenssado!" 
     m"Continua..."
 
 
@@ -720,8 +722,8 @@ m "Terá que enfrentar seu pesadelo mortal, um grupo de pessoas.'"
 
     scene JardimFamilia
 
-    c "Carla e Rose, sorridentes sempre andam juntas, não vejo um amor como os dois, mas algo fraternal, tipo familiares?"
-    "Matheu estava encantado mais ainda espantado, com a dedução exata de cada um de seus colegas."
+    c "Carla e Rose, sorridentes sempre andam juntas, não vejo um amor como dos outros dois, mas algo fraternal, tipo familiares?"
+    "Matheu estava encantado e mais ainda espantado, com a dedução exata de cada um de seus colegas..."
 
 
 
@@ -739,16 +741,16 @@ m "Terá que enfrentar seu pesadelo mortal, um grupo de pessoas.'"
     scene Jardim
     show Cillas at left
     show Matheu at center
-    m "Thali! A Nathali, ta aqui?"
-    "Matheu começou a ficar vermelho como uma maça."
+    m "Tha! A Nathali, ta aqui?"
+    "Matheu comeu a fgicar vermelho com uma maça"
     c "Sim, e parece que ela tá olhanndo para nós... Calma me enganei!"
     m "Ufa!"
-    "Supirou Matheu de alivio."
+    "Supirou Matheu de alivio"
     c "Ela esta olhando para você!"
     hide Cillas
-    m"Para...Para...Mim? \n
-    Cillas, diz ai se eu to bonito... Cillas?"
-    "Matheu percebeu que Cillas se mandou logo após deixá-lo bem destraído com outros problemas."
+    m"Pr...Pra...Mim? \n
+    Cillas, diz ai se o eu to bonito... Cillas?"
+    "Matheu percebeu que Cillas se mandou logo após deixa-lo bem destraio com outros problemas"
     
     hide Matheu
 
@@ -763,8 +765,8 @@ m "Terá que enfrentar seu pesadelo mortal, um grupo de pessoas.'"
     show Cillas
 
 
-    "Andando pelo verde imenso, Cillas começou a notar um sentimento de frente a escola, pela primeira vez para ele houve uma conexão? Algo que o ajuda a criar vinculous?"
-    c "O que é essa luz em meus olhos?"
+    "Andando pelo verde imenso, Cillas começou a notar um sentimento difente com a escola, pela primeira vez para ele, houve uma conexão? Algo que o ajuda-se a criar vinculous?"
+    c "Oque é essa luz em meus olhos?"
 
 
 
@@ -773,7 +775,7 @@ m "Terá que enfrentar seu pesadelo mortal, um grupo de pessoas.'"
 
 
     scene GramaColar    
-    "Cillas olhou no gramado e viu uma prata azulada reluzente com o sol daquele belo fatídico dia. "
+    "Cillas olhou no gramado e viu uma prata azulada reluzente com o sol daquele belo-fatidico dia "
     hide Cillas
 
 
@@ -788,7 +790,7 @@ m "Terá que enfrentar seu pesadelo mortal, um grupo de pessoas.'"
     "Cillas olhou para cima e viu que havia uma janela não tão distante, da grama, tentou se lembra o porque a janela e onde ele esta eram tão familiares para ele..."
     c "Espera... Essa é a janela da minha sala!"
     c "É por isso que não tem tanto sangue pelos corredores, o assassino não saiu pela porta, ele saiu pela janela!"
-    c "O que eu devo fazer?"
+    c "Oque eu devo fazer"
 
     hide CillasColar
 
@@ -855,45 +857,45 @@ label EP2quartos:
 
     scene Quarto Matheu e Cillas
 
-    "Já era outro dia faltando 5 para a reunião, e o Cillas já tinha diversas coisas para contar aos seus pais o que não houvem"
+    "Era já outro dia faltando 5 dias para a reunião, e Cillas já tinha diversas coisas á contar aos pais que o não houve"
 
     show Cillas at left
 
-    c "Hora de acordar Matheu..."
+    c "Ora de acordar... Matheu..."
     "Começando o dia já cobrando a aposta do amigo"
    
     show Matheu at right
     m "Para um cara que é quieto, tu não larga do meu pé em!"
     c "Só estou te encomodando para cobrar o meu ganho..."
-    m "Mas tem que ser agora? são 8 da manhã filho, vai viver..."
+    m "Mas tem que ser agora, são 8 da manhã filho, vai viver..."
     c "Tu não vai fazer agora o favor, eu vou te explicar como você deve fazer na hora certa!"
     "Matheu estava pensando no que diabos ele se meteu para falar com Cillas"
 
     c "O plano é o seguinte..."
 
-    hide Cillas
+    hide Cillas 
     hide Matheu
 
 
 
 
     scene TodosnaSala
-    c "Nós teremos algumas horas livres de tarde para a noite "
-   
+    c "Nós temos umas horas livre de tarde para a noite "
+    
 
 
 
 
     scene Todosnocorredor
-    c "Você irá convencer todos á fazer a atividade, uma brincadeira sei lá, no jardim... "
-    m "E enquanto á você?"
+    c "Voce ira convencer à todos em ir fazer atividade, uma brincadeira sei lá, no jardim... "
+    m "Enquanto você?"
 
 
 
 
 
     scene Janela
-    c "Eu irei resolver alguns problemas"
+    c "Eu resolvo um problema"
 
 
 
@@ -903,8 +905,8 @@ label EP2quartos:
     scene Quartos
 
     show Cillas
-    "Cillas decidiu procurar em diversos quartos atrás de quem poderia ser o dono ou a dona do colar"
-    "Escolheu o quarto 345 por que a porta estava aberta e rapidamente entrou"
+    "Cillas decidiu procurar em diverso quartos atras de quem podeeria ser o dono ou a dona do colar"
+    "Escolheu o quartos 345, a porta estava aberta, rapidamente entrou"
     hide Cillas
 
 
@@ -912,25 +914,25 @@ label EP2quartos:
 
     show Cillas
     c "Nossa que quarto mais cheroso, e arrumado..."
-    "Sons se perpetuavam e aumentavam perante na chegada ao quarto"
-    c "Caralho tem gente vindo!"
+    "Sons se perpetuavam e aumentavam perante na chegada do quarto"
+    c "Caraca, tem gente vindo!"
     "Cillas se recolheu de baixo de uma das camas."
     hide Cillas
 
     show Carla at left
     show Rose at right
 
-    r "Tem asma e não trás a bombinha ou muito menos a garrafinha, bunito em dona Carla!"
+    r "Tem asma e não trás a bombinha ou muito menos a garrafa bunita em dona Carla"
     l "Desculpa Mis Rose Hollywood"
     "Sons de risadas se alastraram, diminuindo sua altitude conforme saia do quarto"
 
 
-    hide Carla
-    hide Rose
+    hide Carla 
+    hide Rose 
 
     show Cillas
 
-    c "Então Carla e Rose, veremos oque voces tanto esconde entre quatro paredes"
+    c "Então, Crala e Rose veremos oque voces tanto esconde entre quatro paredes"
     hide Cillas
 
     "10 MIN DEPOIS "
@@ -948,7 +950,7 @@ label EP2quartos:
     scene QuartoRoseCarla
 
     show Cillas
-    c "Bom... Não encontrei nada aqui, mas oh perfume cheiroso esse! Em Carla, combina super com essas rosas"
+    c "Bom... Não encontrei nada aqui, mas oh perfume cheroso esse, em Carla! Combina super com essas rosas"
     hide Cillas
 
 
@@ -957,8 +959,8 @@ label EP2quartos:
 
     show Cillas
     "Cillas ficou mais tempo tentando achar um quarto com a porta aberta do que vasculhando-os, e a distração de  Matheu não ia durar por muito tempo"
-    "Pelo menos alguém aqui sabe ser um adolescente inresponsavel para deixar a porta destrancada"
-    hide Cillas
+    "Ae pelo menos alguem aqui sabe ser um adolescente desresponsavel para deixar a porta destrancada"
+    hide Cillas 
 
 
 
@@ -974,30 +976,30 @@ label EP2quartos:
     c "Quem será que fica aqui?"
     j "Não tem como ter paz com você nem fora da sala"
     p "Eu só to preocupado com você!"
-    hide Cillas
-    "Cilas sentiu as vozes aproximando-se do quarto e rapidamente e se escondeu"
+    hide Cillas 
+    "Cilas sentiu as vozes aproximando-se do quarto e rapidamente se escondeu"
 
     show Julio at left
     show Pietro at right
 
 
-    j "Preocupa-se com nosso relacionamento depois, tudo que eu passei com você foi preocupação"
-    p "Eu não queria ser daquele jeito contigo, eu não queria te perder, eram muitas pessoas se intrometendo no nosso lance"
+    j "Preocupa-se, depois de nossa relacionamento tudo que eu passei com você foi preocupação"
+    p "Eu não queria ser daquele jeito contigo, não queria te perder, eram muitas pessoas se intrometendo no nosso lance"
 
-    c "Pietro e Julio...Então o quarto é deles."
+    c "Pietro e Julio, o quarto é deles então"
 
-    j "Olha eu não quero saber qualquer coisa que venha de você, me deixa em paz por essse ano letivo e vamos com as pessoas civilizadas, aproveitando o resto da besteira do nosso amigo Matheu "
+    j "Olha eu não quero saber de que venha de você, me deixa em paz por essse ano letivo e vamos, como pessoas civilizadas, aproveitar o resto da bestera do nosso amigo Matheu "
     "julio saiu do quarto furioso"
     p "Espera... Eu não quero..."
     "Percebendo que a voz de ambos se desvanearam, Cillas voltara a ficar sozinho no quarto"
-   
+    
     hide Julio
     hide Pietro
 
     show Cillas
-       
+        
     c "Preciso me mexer e rápido parece que Matheu não vai conseguir segurara-los por muito tempo"
-    "Cillas começa a procurar um leão caçando sua presa, procurava pelo quartos pistas que batiam com o colar que achou em 2 dias passados"
+    "Cillas com um leão caçando sua presa, procurava pelo quartos pistas que batiam com o colar que achou 2 dias passados"
 
     hide Cillas
 
@@ -1022,9 +1024,9 @@ label EP2quartos:
     scene QuartoPietroJulio
 
     show Cillas
-    c "O Colar prentece ao Pietro, ele é o assassino!"
+    c "O Colar prentece ou Pietro, ele é o assassino!"
     #som de conversar
-    "De repente passos e sons ecoavam e passam pela porta, Cillas percebeu que a distração de Matheu, tinha se estaguinado! "
+    "Derepente passos e som, ecoavam e passam pela porta, Cillas percebeu que a distração de Matheu, tinha se estaguinado! "
     c "Preciso me mandar daqui..."
     hide Cillas
 
@@ -1033,25 +1035,25 @@ label EP2quartos:
 
 
 
-    scene Quartos
+    scene Quartos 
     show Cillas
 
-    "Saindo sorrateiramente do quarto e misturando-se entre os jovens que voltavem da tal alegre, pelo que parecia, peripécia de Matheu"
-   
-    hide Cillas
+    "Saindo sorrarteiramente do quarto e misturando-se entre os jovens que voltavem da tal alegre, pelo que parecia, peripécia de Matheu"
+    
+    hide Cillas 
 
 
 
 
     scene CorredorNoturno
-    "O quarto de Cillas era um pouco longe de onde ele estava, ele teria que passar por um corredor meio deserto por alunos"
+    "O quarto de Cillas era um pouco longe de onde ele estava, teria que passar por um corredor meio deserto por alunos"
     "Cillas se atentou que não estava sozinho e se escondeu"
 
 
 
 
     scene EscondidonoCorredor
-    "Escondido tentou ver quem estava na penumbra da noite do corredor, surpreso viu apenas um capuz e logo deduziu."
+    "Escondido tentou ver quem estava na penumbra da noite do corredor, surpreso viu apenas um capuz e logo deduziu"
 
     c "Tenho certeza que aquele é o assassino, mas oque eu faço?"
     " A sombra encapuzada, sentiu a presença de alguem e começo a se movimentar"
@@ -1063,19 +1065,19 @@ label EP2quartos:
 
 menu escolhasdoep2:
 
-    "A - Irei atrás do assassino!":
+    "A - Irei atrás do assassino!": 
         jump Finaldoep2A
 
-       
+        
     "B - Irei esperar... Não é a hora!":
         jump Finaldoep2B
-       
-   
+        
+    
 
 label Finaldoep2A:
 
     scene Finaldoep2escolhaAPARTEUM
-    "Assassino percebe que á alguem junto a ele, Cillas pula em sua frente e se mostrando-se"
+    "Assassino percebe que á alguem junto a ele, Cillas pula na frente dele mostrando-se"
 
 
     scene Finaldoep2escolhaAPARTEDOIS
@@ -1122,6 +1124,8 @@ label Finaldoep2B:
 
 
 
+
+
 label EP3secretaria:
 
     scene Banner3
@@ -1130,7 +1134,7 @@ label EP3secretaria:
 
     scene Escola
 
-    "Mais um belo dia! Faltando 3 dias para a reunião com os pais e a chegada dos policias Cillas descidiu 'virar um secretário' "
+    "Mias um belo dia! Faltando 3 dias para a reunião com os pais e a chegada dos policias fletcher descidiu 'vira um secretário' "
 
 
     scene Corredor 
@@ -1139,8 +1143,8 @@ label EP3secretaria:
     show Matheu at left
 
 
-    m "Lá vem!"
-    "Dissera Matheu, vendo Cillas vir em sua direção, como se você um espírito vindo possui-lo"
+    m "La vem!"
+    "Dissera Matheu, vendo Cillas vir em sua direção, como se você um espirito vindo possui-lo"
     c "Oi."
     m "Só o..."
     c "De novo preciso de sua ajuda!"
@@ -1180,9 +1184,9 @@ label EP3secretaria:
     c "Meu nome é Cillas, sou aluno novo e se não há incômodo gosta de pedir a planilha de estudos!"
     t "Você está brincando, não é?"
     c "Não quero lhe causar problemas, sou só um aluno novo..."
-    "Cillas para reforçar seu plano, lançou uma cara de cãozinho perdido, abandonado"
-    t "Ok! Sente-se aí rapaz, espero que tenha um livro para ler, isso vai demorar e muito"
-    "E era isso que ele necessitava no momento, tempo!"
+    "Cillas para reforçar seu plano, lançou uma cara de caozinho perdido, abandonado"
+    t "Ok! Sente-se ai rapaz, espero que tenha um livro para ler, isso vai demorar e muito"
+    "E era isso do que ele necesitava no momento, tempo!"
 
 
 
@@ -1199,7 +1203,7 @@ label EP3secretaria:
 
     c "Vamos ver onde todos estavam!"
 
-    "Cillas estava vasculhando os documentos onde ficam salvos as gravações de câmera e notou algo estranho"
+    "Cillas estva vasculhando os documentos onde ficam salvos as gravações de câmera e notou algo estranho"
 
 
 
@@ -1214,7 +1218,7 @@ label EP3secretaria:
 
 
     scene JardimFesta
-    c "Todos estão aqui ,suponho, deve haver mais ângulos"
+    c "Todos estão aqui suponho, deve haver mais angulos"
 
 
 
@@ -1227,7 +1231,7 @@ label EP3secretaria:
 
     scene PietroJulioNatalhiRosePARTEUMFesta
 
-    c "Pietro está olhando o Julio que esta curtindo com a Nathali e Rose, mas cadê a Carla?"
+    c "Pietro esta olhando o Julio que esta curtindo com a Nathali e Rose, mas cade a Carla?"
 
 
 
@@ -1238,14 +1242,14 @@ label EP3secretaria:
 
     scene ZeladorFesta
 
-    c "O zelador acordou dez segundo antes do backout, não duvido nada que todos saíram correndo, facilitando que o assassino saiesse sem pronlemas"
+    c "O zelador acordou dez segundo antes do blackout, não duvido nada que todos sairam correndo, facilitando que o assassino saiesse sem pronlemas"
 
 
 
 
     scene SecretariaCillas
 
-    "Agora se o zelador chegou e acabou com a festa onde estavam na escola?"
+    "Agora se o zelador chegou e acabou com a fetsa onde estavam na escola?"
 
 
 
@@ -1254,7 +1258,7 @@ label EP3secretaria:
 
     scene MatheuFesta
 
-    "Acredito que o Matheu tenha hibernando no banco do jardim"
+    "Acredito que o Matheu tenha ibernado no banco do jardim"
 
 
 
@@ -1276,10 +1280,10 @@ label EP3secretaria:
 
     scene PietroeNathaliEscola
 
-    "Ué, o'que eles estavam fazendo juntos?"
+    "Ué, oque eles estavam fazendo juntos?"
 
     scene NathaliEscola
-    "Por quê você estava com Pietro, mas depois passou pela sala da Profª Scarlet? Tem angu nesse caroço!"
+    "Por quê você estava com Pietro, mas depois passou pelasala da Profª Scarlet? Tem angu nessa caroço!"
 
 
     scene SecretariaCillas
@@ -1307,13 +1311,13 @@ label EP3secretaria:
 
     scene PortaSecretariaPARTEDOIS
 
-    c "Todos estão pendurados como suspeitos e inocentes, mas então como vou fazer isso andar de novo, eu estou sem recursos, a não ser..."
+    c "Todos estão pendeurados como suspeitos e inocentes, mas então como vou fazer isso andar de novo, eu estou sem recursos, a não ser..."
 
 
 
 menu escolhasdoep3:
 
-    "A - Vou contar à diretora... Já é a hora!": 
+    "A - Vou contar a diretora... Já é a hora!": 
         jump Finaldoep3A
 
         
@@ -1355,26 +1359,28 @@ label Finaldoep3B:
 
 
 
-
-
 label Finaldoep3C:
 
 
 
     scene Finaldoep3escolhaCPARTEUM
-    "Assassino percebe que á alguem junto a ele e foge logo em seguida"
+    "Assassino percebe que á alguem junto a ele e foje logo em seguida"
 
     scene Finaldoep3escolhaCPARTEDOIS
-    "Buscando ir a lanchonete para ver melhor, e clarear a mente com um grande dogão"
+    "Buscando ir a lanchonete para ver melhor, e clariar a mente com um grande dogão"
 
     scene Finaldoep3escolhaCPARTETRES
     "Nathali tinha o que o Cillas precisava para deduzir essa assassinato"
+
 
     scene Finaldoep2escolhaCPARTEFINAL
     "FinaldoEp"
 
 
     jump EP4perseguicao
+
+
+
 
 
 
