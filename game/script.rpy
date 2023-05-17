@@ -857,45 +857,45 @@ label EP2quartos:
 
     scene Quarto Matheu e Cillas
 
-    "Era já outro dia faltando 5 dias para a reunião, e Cillas já tinha diversas coisas á contar aos pais que o não houve"
+    "Já era outro dia faltando 5 para a reunião, e o Cillas já tinha diversas coisas para contar aos seus pais o que não houvem"
 
     show Cillas at left
 
-    c "Ora de acordar... Matheu..."
+    c "Hora de acordar Matheu..."
     "Começando o dia já cobrando a aposta do amigo"
    
     show Matheu at right
     m "Para um cara que é quieto, tu não larga do meu pé em!"
     c "Só estou te encomodando para cobrar o meu ganho..."
-    m "Mas tem que ser agora, são 8 da manhã filho, vai viver..."
+    m "Mas tem que ser agora? são 8 da manhã filho, vai viver..."
     c "Tu não vai fazer agora o favor, eu vou te explicar como você deve fazer na hora certa!"
     "Matheu estava pensando no que diabos ele se meteu para falar com Cillas"
 
     c "O plano é o seguinte..."
 
-    hide Cillas 
+    hide Cillas
     hide Matheu
 
 
 
 
     scene TodosnaSala
-    c "Nós temos umas horas livre de tarde para a noite "
-    
+    c "Nós teremos algumas horas livres de tarde para a noite "
+   
 
 
 
 
     scene Todosnocorredor
-    c "Voce ira convencer à todos em ir fazer atividade, uma brincadeira sei lá, no jardim... "
-    m "Enquanto você?"
+    c "Você irá convencer todos á fazer a atividade, uma brincadeira sei lá, no jardim... "
+    m "E enquanto á você?"
 
 
 
 
 
     scene Janela
-    c "Eu resolvo um problema"
+    c "Eu irei resolver alguns problemas"
 
 
 
@@ -905,8 +905,8 @@ label EP2quartos:
     scene Quartos
 
     show Cillas
-    "Cillas decidiu procurar em diverso quartos atras de quem podeeria ser o dono ou a dona do colar"
-    "Escolheu o quartos 345, a porta estava aberta, rapidamente entrou"
+    "Cillas decidiu procurar em diversos quartos atrás de quem poderia ser o dono ou a dona do colar"
+    "Escolheu o quarto 345 por que a porta estava aberta e rapidamente entrou"
     hide Cillas
 
 
@@ -914,25 +914,25 @@ label EP2quartos:
 
     show Cillas
     c "Nossa que quarto mais cheroso, e arrumado..."
-    "Sons se perpetuavam e aumentavam perante na chegada do quarto"
-    c "Caraca, tem gente vindo!"
+    "Sons se perpetuavam e aumentavam perante na chegada ao quarto"
+    c "Caralho tem gente vindo!"
     "Cillas se recolheu de baixo de uma das camas."
     hide Cillas
 
     show Carla at left
     show Rose at right
 
-    r "Tem asma e não trás a bombinha ou muito menos a garrafa bunita em dona Carla"
+    r "Tem asma e não trás a bombinha ou muito menos a garrafinha, bunito em dona Carla!"
     l "Desculpa Mis Rose Hollywood"
     "Sons de risadas se alastraram, diminuindo sua altitude conforme saia do quarto"
 
 
-    hide Carla 
-    hide Rose 
+    hide Carla
+    hide Rose
 
     show Cillas
 
-    c "Então, Crala e Rose veremos oque voces tanto esconde entre quatro paredes"
+    c "Então Carla e Rose, veremos oque voces tanto esconde entre quatro paredes"
     hide Cillas
 
     "10 MIN DEPOIS "
@@ -950,7 +950,7 @@ label EP2quartos:
     scene QuartoRoseCarla
 
     show Cillas
-    c "Bom... Não encontrei nada aqui, mas oh perfume cheroso esse, em Carla! Combina super com essas rosas"
+    c "Bom... Não encontrei nada aqui, mas oh perfume cheiroso esse! Em Carla, combina super com essas rosas"
     hide Cillas
 
 
@@ -959,8 +959,8 @@ label EP2quartos:
 
     show Cillas
     "Cillas ficou mais tempo tentando achar um quarto com a porta aberta do que vasculhando-os, e a distração de  Matheu não ia durar por muito tempo"
-    "Ae pelo menos alguem aqui sabe ser um adolescente desresponsavel para deixar a porta destrancada"
-    hide Cillas 
+    "Pelo menos alguém aqui sabe ser um adolescente inresponsavel para deixar a porta destrancada"
+    hide Cillas
 
 
 
@@ -976,30 +976,30 @@ label EP2quartos:
     c "Quem será que fica aqui?"
     j "Não tem como ter paz com você nem fora da sala"
     p "Eu só to preocupado com você!"
-    hide Cillas 
-    "Cilas sentiu as vozes aproximando-se do quarto e rapidamente se escondeu"
+    hide Cillas
+    "Cilas sentiu as vozes aproximando-se do quarto e rapidamente e se escondeu"
 
     show Julio at left
     show Pietro at right
 
 
-    j "Preocupa-se, depois de nossa relacionamento tudo que eu passei com você foi preocupação"
-    p "Eu não queria ser daquele jeito contigo, não queria te perder, eram muitas pessoas se intrometendo no nosso lance"
+    j "Preocupa-se com nosso relacionamento depois, tudo que eu passei com você foi preocupação"
+    p "Eu não queria ser daquele jeito contigo, eu não queria te perder, eram muitas pessoas se intrometendo no nosso lance"
 
-    c "Pietro e Julio, o quarto é deles então"
+    c "Pietro e Julio...Então o quarto é deles."
 
-    j "Olha eu não quero saber de que venha de você, me deixa em paz por essse ano letivo e vamos, como pessoas civilizadas, aproveitar o resto da bestera do nosso amigo Matheu "
+    j "Olha eu não quero saber qualquer coisa que venha de você, me deixa em paz por essse ano letivo e vamos com as pessoas civilizadas, aproveitando o resto da besteira do nosso amigo Matheu "
     "julio saiu do quarto furioso"
     p "Espera... Eu não quero..."
     "Percebendo que a voz de ambos se desvanearam, Cillas voltara a ficar sozinho no quarto"
-    
+   
     hide Julio
     hide Pietro
 
     show Cillas
-        
+       
     c "Preciso me mexer e rápido parece que Matheu não vai conseguir segurara-los por muito tempo"
-    "Cillas com um leão caçando sua presa, procurava pelo quartos pistas que batiam com o colar que achou 2 dias passados"
+    "Cillas começa a procurar um leão caçando sua presa, procurava pelo quartos pistas que batiam com o colar que achou em 2 dias passados"
 
     hide Cillas
 
@@ -1024,9 +1024,9 @@ label EP2quartos:
     scene QuartoPietroJulio
 
     show Cillas
-    c "O Colar prentece ou Pietro, ele é o assassino!"
+    c "O Colar prentece ao Pietro, ele é o assassino!"
     #som de conversar
-    "Derepente passos e som, ecoavam e passam pela porta, Cillas percebeu que a distração de Matheu, tinha se estaguinado! "
+    "De repente passos e sons ecoavam e passam pela porta, Cillas percebeu que a distração de Matheu, tinha se estaguinado! "
     c "Preciso me mandar daqui..."
     hide Cillas
 
@@ -1035,25 +1035,25 @@ label EP2quartos:
 
 
 
-    scene Quartos 
+    scene Quartos
     show Cillas
 
-    "Saindo sorrarteiramente do quarto e misturando-se entre os jovens que voltavem da tal alegre, pelo que parecia, peripécia de Matheu"
-    
-    hide Cillas 
+    "Saindo sorrateiramente do quarto e misturando-se entre os jovens que voltavem da tal alegre, pelo que parecia, peripécia de Matheu"
+   
+    hide Cillas
 
 
 
 
     scene CorredorNoturno
-    "O quarto de Cillas era um pouco longe de onde ele estava, teria que passar por um corredor meio deserto por alunos"
+    "O quarto de Cillas era um pouco longe de onde ele estava, ele teria que passar por um corredor meio deserto por alunos"
     "Cillas se atentou que não estava sozinho e se escondeu"
 
 
 
 
     scene EscondidonoCorredor
-    "Escondido tentou ver quem estava na penumbra da noite do corredor, surpreso viu apenas um capuz e logo deduziu"
+    "Escondido tentou ver quem estava na penumbra da noite do corredor, surpreso viu apenas um capuz e logo deduziu."
 
     c "Tenho certeza que aquele é o assassino, mas oque eu faço?"
     " A sombra encapuzada, sentiu a presença de alguem e começo a se movimentar"
@@ -1065,19 +1065,19 @@ label EP2quartos:
 
 menu escolhasdoep2:
 
-    "A - Irei atrás do assassino!": 
+    "A - Irei atrás do assassino!":
         jump Finaldoep2A
 
-        
+       
     "B - Irei esperar... Não é a hora!":
         jump Finaldoep2B
-        
-    
+       
+   
 
 label Finaldoep2A:
 
     scene Finaldoep2escolhaAPARTEUM
-    "Assassino percebe que á alguem junto a ele, Cillas pula na frente dele mostrando-se"
+    "Assassino percebe que á alguem junto a ele, Cillas pula em sua frente e se mostrando-se"
 
 
     scene Finaldoep2escolhaAPARTEDOIS
@@ -1112,8 +1112,6 @@ label Finaldoep2B:
 
 
     jump EP3secretaria
-
-
 
 
 
